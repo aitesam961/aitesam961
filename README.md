@@ -36,5 +36,12 @@ So I am Learning
 Check out My GitHub Repositories for my past Experience and skillset.
 
 #### How to reach me:
-I can be reached out on [Twitter](https://twitter.com/aitesam961) or [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
+I can be reached out on 
+[Twitter](https://twitter.com/aitesam961)
+[LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
+aitesam961@gmail.com
+
+[Jump To Start](###Specialization)
+
+
 
