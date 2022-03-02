@@ -20,6 +20,7 @@ You can Check me out at:
 
 ### What Im currently working on?
 > **Full Time:** Student
+
 > **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
 
 ### My Learning Goals for 2022:Q1
