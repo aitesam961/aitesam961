@@ -1,16 +1,40 @@
-### Hi there 👋
+#### Hello World!!!
 
-<!--
-**maitesam/maitesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who I am?
+I am 'Aitesam'from Pakistan. I am an Electrical Engineer by Profession and I develop embedded solutions from hobbyist level to commercial products.
+I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
-Here are some ideas to get you started:
+You can Check me out at:
+* [Twitter](https://twitter.com/aitesam961)
+* [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Specialization
+> - Embedded Systems
+> - Electronics
+> - Computer Hardware
+> - IoT
+
+### What I like?
+
+> My areas of interest lies in Embedded hardware Design, Firmware development for advanced Technology solutions.
+
+### What Im currently working on?
+> **Full Time:** Student
+> **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
+
+### My Learning Goals for 2022:Q1
+"Learning Never Stops" 
+So I am Learning 
+* [ ] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+* [ ] [Verilog](https://en.wikipedia.org/wiki/Verilog)
+
+
+
+
+### Portfolio
+
+Check out My GitHub Repositories for my past Experience and skillset.
+
+#### How to reach me:
+I can be reached out on [Twitter](https://twitter.com/aitesam961) or [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
+
