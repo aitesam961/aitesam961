@@ -41,7 +41,6 @@ I can be reached out on
 [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
 aitesam961@gmail.com
 
-[Jump To Start](###Specialization)
 
 
 
