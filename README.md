@@ -1,7 +1,7 @@
 #### Hello World!!!
 
 ### Who I am?
-I am Aitesam from Pakistan. I am an Electrical Engineer by Profession and I develop embedded solutions from hobbyist level to commercial products.
+I am Aitesam from Pakistan. I chose Electrical Engineering as a  Profession and I develop embedded solutions from hobbyist level to commercial products.
 I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 You can Check me out at:
