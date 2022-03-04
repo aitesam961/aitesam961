@@ -1,12 +1,12 @@
 #### Hello World!!!
+<p align="center">
+  <img width="1200" src="https://github.com/maitesam/maitesam/blob/main/m_aitesam961.png" alt="Material Bread logo">
+</p>
 
 ### Who I am?
-I am Aitesam from Pakistan. I chose Electrical Engineering as a  Profession and I develop embedded solutions from hobbyist level to commercial products.
+I am Aitesam from Pakistan. I opted for Electrical Engineering as a  Profession and I develop embedded solutions from hobbyist level to commercial products.
 I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
-You can Check me out at:
-* [Twitter](https://twitter.com/aitesam961)
-* [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
 
 ### Specialization
 > - Embedded Systems
@@ -65,13 +65,11 @@ And much more to come. Just someone catch the **TIME** for me.
 
 Check out My GitHub Repositories for my Past Projects & Experience.
 
-#### Want to COntact Me?:
-I can be reached out on 
-
+You can Check me out at:
 * [Twitter](https://twitter.com/aitesam961)
-
 * [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
 
+#### Want to COntact Me?:
 aitesam961@gmail.com
 
 
