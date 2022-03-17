@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+#### Hello World!!!
+<p align="center">
+  <img width="1200" src="https://github.com/maitesam/maitesam/blob/main/m_aitesam961.png" alt="Material Bread logo">
+</p>
 
-You can use the [editor on GitHub](https://github.com/maitesam/maitesam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Who I am?
+I am **Aitesam** from Pakistan. I opted for Electrical Engineering as a  Profession and I develop embedded solutions from hobbyist level to commercial products.
+I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Specialization
+> - Embedded Systems
+> - Electronics
+> - Computer Hardware
+> - IoT
+## My Skills
+* [x] Embedded Hardware Design
+    * [ ] SMPSs & LDO PSUs
+    * [ ] Interfacing MCUs
+    * [ ] Interfaces like MIPI/CSI/DSI,I2C,SPI,UART
+    * [ ] Mixed Signal PCB design
+    * [ ] High Speed PCB Design
+* [x] Firmware for IoT Devices
+    * [ ] Custom Drivers for Sensors & Actuators
+* [x] Smart Control Systems
+    * [ ] DIY PLCs 
+* [x] C++ and Micropython
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What I like?
 
-```markdown
-Syntax highlighted code block
+> My areas of interest lies in Embedded hardware Design, Firmware development for advanced Technology solutions.
+### What Im currently working on?
+> **Full Time:** Student (BECE)
+> **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
+### My Learning Goals for 2022:Q1
+"Learning Never Stops" 
+So I am Learning 
+* [ ] Primary Focus
+     * [ ] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+     * [ ] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
+* [ ]  Secondry Objectives
+     * [ ] Embedded NFC Antenna Design for PCB
+     * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 2.5Gb Ethernet interfacing
+     * [ ]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
+     * [ ] Automated [Twitter Bots](https://en.wikipedia.org/wiki/Twitter_bot) Using Python
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Upcoming Projects:
+. You can Expect these projects to get live on GitHub Soon
+- Raspberry Pi **CM4 Carrier Board**
+- Raspberry Pi **POE+ HAT** (Power Over Ethernet)
+- Feather FPGA Development board
+- A C++ based GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
+- A Twitter Bot to track Airport Flights using [ADSB Exchange](https://www.adsbexchange.com/)
+- And Finally, A custom HTML coded website for myself. (Template will be Open Source)
+And much more to come. Just someone catch the **TIME** for me.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Portfolio
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Check out My GitHub Repositories for my Past Projects & Experience.
 
-### Jekyll Themes
+You can Check me out at:
+* [Twitter](https://twitter.com/aitesam961)
+* [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maitesam/maitesam/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Want to Contact Me?:
+aitesam961@gmail.com
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
