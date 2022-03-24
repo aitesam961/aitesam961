@@ -66,7 +66,7 @@ And much more to come. Just someone catch the **TIME** for me.
 Check out My GitHub Repositories for my Past Projects & Experience.
 
 You can Check me out at:
-* [Twitter](https://twitter.com/aitesam961)
+* [Twitter](https://twitter.com/unilegion961)
 * [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
 
 #### Want to Contact Me?:
