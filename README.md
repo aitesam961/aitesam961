@@ -33,7 +33,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 > My areas of interest lies in Embedded hardware Design, Firmware development for advanced Technology solutions.
 
-### What Im currently working on?
+### What I'm currently working on?
 > **Full Time:** Student (BECE)
 
 > **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
