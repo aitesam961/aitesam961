@@ -4,7 +4,7 @@
 </p>
 
 ### Who I am?
-I am **Aitesam** from Pakistan. I opted for Electrical Engineering as a  Profession and I develop embedded solutions from hobbyist level to commercial products.
+I am **Aitesam** from Pakistan. I opted for Electrical Engineering as a  Profession and I develop embedded hardware & solutions from hobbyist level to commercial products.
 I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 
