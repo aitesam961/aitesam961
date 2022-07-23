@@ -34,11 +34,11 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 > My areas of interest lies in Embedded hardware Design, Firmware development for advanced Technology solutions.
 
 ### What I'm currently working on?
-> **Full Time:** Student (BECE)
+> **Full Time:** Student (BS Electrical Engineering)
 
 > **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
 
-### My Learning Goals for 2022:Q1
+### My Learning Goals for 2022:Q2
 "Learning Never Stops" 
 So I am Learning 
 * [ ] Primary Focus
