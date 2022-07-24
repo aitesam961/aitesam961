@@ -18,15 +18,15 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 ## My Skills
 * [x] Embedded Hardware Design
-    * [ ] SMPSs & LDO PSUs
-    * [ ] Interfacing MCUs
-    * [ ] Interfaces like MIPI/CSI/DSI,I2C,SPI,UART
-    * [ ] Mixed Signal PCB design
-    * [ ] High-Speed PCB Design
+    * [x] SMPSs & LDO PSUs
+    * [x] Interfacing MCUs
+    * [x] Interfaces like MIPI/CSI/DSI,I2C,SPI,UART
+    * [x] Mixed Signal PCB design
+    * [x] High-Speed PCB Design
 * [x] Firmware for IoT Devices
     * [ ] Custom Drivers for Sensors & Actuators
 * [x] Smart Control Systems
-    * [ ] DIY PLCs 
+    * [x] DIY PLCs 
 * [x] C++ and Micropython
 
 ### What I like?
