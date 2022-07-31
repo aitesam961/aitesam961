@@ -4,7 +4,7 @@
 </p>
 
 ### Who I am?
-I am **Aitesam** from Pakistan. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and smetimes, industrial equipment.
+I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and smetimes, industrial equipment.
 I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 
