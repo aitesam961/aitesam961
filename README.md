@@ -24,7 +24,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
     * [x] Mixed Signal PCB design
     * [x] High-Speed PCB Design
 * [x] Firmware for IoT Devices
-    * [ ] Custom Drivers for Sensors & Actuators
+    * [x] Custom Drivers for Sensors & Actuators
 * [x] Smart Control Systems
     * [x] DIY PLCs 
 * [x] C++ and Micropython
