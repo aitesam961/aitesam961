@@ -31,7 +31,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 ### What I like?
 
-> My areas of interest lies in Embedded hardware Design, Firmware development for advanced Technology solutions.
+> My area of interest lies in Embedded hardware Design, Firmware development for advanced Technology solutions.
 
 ### What I'm currently working on?
 > **Full Time:** Student (BS Electrical Engineering)
