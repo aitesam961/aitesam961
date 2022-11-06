@@ -38,7 +38,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 > **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
 
-### My Learning Goals for 2022:Q2
+### My Learning Goals for 2022:Q1
 "Learning Never Stops" 
 So I am Learning 
 * [ ] Primary Focus
@@ -48,7 +48,6 @@ So I am Learning
      * [ ] Embedded NFC Antenna Design for PCB
      * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 2.5Gb Ethernet interfacing
      * [ ]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
-     * [ ] Automated [Twitter Bots](https://en.wikipedia.org/wiki/Twitter_bot) Using Python
 
 
 
@@ -58,7 +57,6 @@ So I am Learning
 - Raspberry Pi **POE+ HAT** (Power Over Ethernet)
 - Feather FPGA Development board
 - A C++ based GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
-- A Twitter Bot to track Airport Flights using [ADSB Exchange](https://www.adsbexchange.com/)
 - And Finally, A custom HTML coded website for myself. 
   (Template will be Open Source)
 
@@ -71,7 +69,7 @@ And much more to come. Just someone catch the **TIME** for me.
 Check out My GitHub Repositories for my Past Projects & Experience.
 
 You can Check me out at:
-* [Twitter](https://twitter.com/unilegion961)
+* [Twitter](https://twitter.com/TheCactus961)
 * [LinkedIn](https://www.linkedin.com/in/muhammad-aitesam/)
 
 #### Want to Contact Me?:
