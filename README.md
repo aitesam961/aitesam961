@@ -1,10 +1,10 @@
-#### Hello World!!
+{::comment} #### Hello World!!
 <p align="center">
   <img width="1200" src="https://github.com/maitesam/maitesam/blob/main/m_aitesam961.png" alt="Material Bread logo">
-</p>
+</p>{:/comment}
 
 ### Who I am?
-I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and smetimes, industrial equipment.
+I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment.
 I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 
