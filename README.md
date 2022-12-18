@@ -7,7 +7,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 ### Specialization
 > - Embedded Systems
 > - Electronics
-> - Computer Hardware
+> - Computer HW & SW
 > - IoT
 
 
