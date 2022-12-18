@@ -34,7 +34,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 > **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
 
-### My Learning Goals for 2022:Q1
+### My Learning Goals for 2022:Q4
 "Learning Never Stops" 
 So I am Learning 
 * [ ] Primary Focus
@@ -50,8 +50,8 @@ So I am Learning
 ### Upcoming Projects:
 . You can Expect these projects to get live on GitHub Soon
 - Raspberry Pi **CM4 Carrier Board**
-- Raspberry Pi **POE+ HAT** (Power Over Ethernet)
 - Feather FPGA Development board
+- 16-Bit RISC CPU on FPGA
 - A C++ based GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
 - And Finally, A custom HTML coded website for myself. 
   (Template will be Open Source)
