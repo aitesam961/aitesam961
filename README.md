@@ -23,7 +23,10 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
     * [x] Custom Drivers for Sensors & Actuators
 * [x] Smart Control Systems
     * [x] DIY PLCs 
+    * [x] PID Controller Design
+    * [x] Close-Loop Feedback Integration in IOT Environement  
 * [x] C++ and Micropython
+* [x] Machine Learning using Python
 
 ### What I like?
 
@@ -34,7 +37,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 
 > **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
 
-### My Learning Goals for 2022:Q4
+### My Learning Goals for 2023:Q1
 "Learning Never Stops" 
 So I am Learning 
 * [ ] Primary Focus
@@ -44,6 +47,8 @@ So I am Learning
      * [ ] Embedded NFC Antenna Design for PCB
      * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 2.5Gb Ethernet interfacing
      * [ ]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
+     * [ ]  Deploy AI Trained Models on Low Power Embedded Systems
+     * [ ]  Transform & Implement Trained AI models onto Discrete Analog Hardware
 
 
 
