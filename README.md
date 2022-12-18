@@ -58,7 +58,7 @@ So I am Learning
 - Feather FPGA Development board
 - 16-Bit RISC CPU on FPGA
 - A C++ based GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
-- And Finally, A custom HTML coded website for myself. 
+- And Finally, A custom HTML5 coded website for myself. 
   (Template will be Open Source)
 
 
