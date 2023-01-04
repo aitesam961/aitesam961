@@ -35,7 +35,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 ### What I'm currently working on?
 > **Full Time:** Student (BS Electrical Engineering)
 
-> **Part Time:** Finalizing the Firmware & Documentation for [OpenADSP](https://github.com/maitesam/OpenADSP)
+> **Part Time:** Finalizing the Firmware & Documentation for my Open Source Projects
 
 ### My Learning Goals for 2023:Q1
 "Learning Never Stops" 
@@ -44,10 +44,10 @@ So I am Learning
      * [ ] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
      * [ ] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
 * [ ]  Secondry Objectives
-     * [ ] Embedded NFC Antenna Design for PCB
-     * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 2.5Gb Ethernet interfacing
-     * [ ]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
-     * [ ]  Deploy AI Trained Models on Low Power Embedded Systems
+     * [ ]  Embedded NFC Antenna Design for PCB
+     * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 10Gb Ethernet interfacing
+     * [x]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
+     * [ ]  Deploy Trained AI Models on Low Power Embedded Systems
      * [ ]  Transform & Implement Trained AI models onto Discrete Analog Hardware
 
 
