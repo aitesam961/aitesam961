@@ -43,6 +43,8 @@ So I am Learning
 * [ ] Primary Focus
      * [ ] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
      * [ ] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
+     * [ ] RISC-V SOC on FPGA
+     * [ ] Compiler Design
 * [ ]  Secondry Objectives
      * [ ]  Embedded NFC Antenna Design for PCB
      * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 10Gb Ethernet interfacing
