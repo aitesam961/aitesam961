@@ -26,8 +26,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
     * [x] PID Controller Design
     * [x] Close-Loop Feedback Integration in IOT Environement  
 * [x] C++ and Micropython
-* [x] Mobile Application Design for IoT
-* [x] Machine Learning using Python
+* [x] Mobile Application Design for IoT 
 
 ### What I like?
 
