@@ -35,7 +35,7 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 ### What I'm currently working on?
 > **Full Time:** Student (BS Electrical Engineering)
 
-> **Part Time:** Finalizing the Firmware & Documentation for my Open Source Projects
+> **Part Time:** Learning RISCV and Advanced Accelerator Applications for HPC
 
 ### My Learning Goals for 2023:Q1
 "Learning Never Stops" 
