@@ -41,9 +41,9 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 "Learning Never Stops" 
 So I am Learning 
 * [ ] Primary Focus
-     * [ ] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-     * [ ] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
-     * [ ] RISC-V SOC on FPGA
+     * [x] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+     * [x] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
+     * [x] RISC-V SOC on FPGA
      * [ ] Compiler Design
 * [ ]  Secondry Objectives
      * [ ]  Embedded NFC Antenna Design for PCB
