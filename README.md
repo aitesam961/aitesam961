@@ -43,7 +43,7 @@ So I am Learning
 * [ ] Primary Focus
      * [x] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
      * [x] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
-     * [x] RISC-V SOC on FPGA
+     * [ ] RISC-V SOC on FPGA
      * [ ] Compiler Design
 * [ ]  Secondry Objectives
      * [ ]  Embedded NFC Antenna Design for PCB
