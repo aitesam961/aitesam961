@@ -7,7 +7,7 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 > - Embedded Systems
 > - Electronics & IoT
 > - Computer HW & SW
-> - RISCV & FPGA SoC
+> - RISCV SoC & FPGAs
 
 
 
