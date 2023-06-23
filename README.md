@@ -54,12 +54,9 @@ So I am Learning
 
 ### Upcoming Projects:
 . You can Expect these projects to get live on GitHub Soon
-- Raspberry Pi **CM4 Carrier Board**
+- Raspberry Pi **CM4 Carrier Board** with extensive set of Peripherals
 - Feather FPGA Development board
-- 16-Bit RISC CPU on FPGA
 - A C++ based GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
-- And Finally, A custom HTML5 coded website for myself. 
-  (Template will be Open Source)
 
 
 And much more to come. Just someone catch the **TIME** for me.
