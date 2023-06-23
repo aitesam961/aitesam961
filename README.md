@@ -29,7 +29,7 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 
 ### What I like?
 
-> My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanvced Computer architecture, RISCV based SOC design and FPGAs
+> My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanvced Computer architecture, RISCV based SoC design, RTL design for  and FPGAs & ASIC
 
 ### What I'm currently working on?
 > **Full Time:** Implementation of RISCV Vector Extension for RV64IMAC Core.
