@@ -1,14 +1,13 @@
 
 ### Who I am?
-I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment.
-I also enjoy writing codes for Automated Bots covering Python & C Languages.
+I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment. With experienced in embedded firmware development, I am interested in RISCV & Computer Architecture, FPGAs Quantum Computing and Space technologies.
 
 
 ### Specialization
 > - Embedded Systems
-> - Electronics
+> - Electronics & IoT
 > - Computer HW & SW
-> - IoT
+> - RISCV & FPGA SoC
 
 
 
@@ -33,17 +32,16 @@ I also enjoy writing codes for Automated Bots covering Python & C Languages.
 > My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanvced Computer architecture, RISCV based SOC design and FPGAs
 
 ### What I'm currently working on?
-> **Full Time:** Student (BS Electrical Engineering)
+> **Full Time:** Implementation of RISCV Vector Extension for RV64IMAC Core.
+> **Part Time:** Study and Research on Modern Computing technologies for AI and ML.
 
-> **Part Time:** Learning RISCV and Advanced Accelerator Applications for HPC
-
-### My Learning Goals for 2023:Q1
+### My Learning Goals for 2023:Q4
 "Learning Never Stops" 
 So I am Learning 
 * [ ] Primary Focus
      * [x] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
      * [x] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
-     * [ ] RISC-V SOC on FPGA
+     * [x] RISC-V SOC on FPGA
      * [ ] Compiler Design
 * [ ]  Secondry Objectives
      * [ ]  Embedded NFC Antenna Design for PCB
