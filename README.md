@@ -7,7 +7,7 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 > - Embedded Systems
 > - Electronics & IoT
 > - Computer HW & SW
-> - RISCV & FPGA SoC
+> - RISCV SoC & FPGAs
 
 
 
@@ -33,7 +33,7 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 
 ### What I'm currently working on?
 > **Full Time:** Implementation of RISCV Vector Extension for RV64IMAC Core.
-> **Part Time:** Study and Research on Modern Computing technologies for AI and ML.
+> **Part Time:** Study and Research on Modern Computing paradigms for AI and ML.
 
 ### My Learning Goals for 2023:Q4
 "Learning Never Stops" 
