@@ -40,8 +40,9 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 So I am Learning 
 * [ ] Primary Focus
      * [x] [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-     * [x] [Verilog HDL](https://en.wikipedia.org/wiki/Verilog)
-     * [x] RISC-V SOC on FPGA
+     * [x] [RTL Design](https://en.wikipedia.org/wiki/Verilog)
+     * [ ] IP Verification
+     * [x] RISC-V SoC on FPGA
      * [ ] Compiler Design
 * [ ]  Secondry Objectives
      * [ ]  Embedded NFC Antenna Design for PCB
