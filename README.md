@@ -43,20 +43,23 @@ So I am Learning
      * [x] [RTL Design](https://en.wikipedia.org/wiki/Verilog)
      * [ ] IP Verification
      * [x] RISC-V SoC on FPGA
-     * [ ] Compiler Design
+     * [ ] Bare Minimum Compiler Design
 * [ ]  Secondry Objectives
      * [ ]  Embedded NFC Antenna Design for PCB
-     * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 10Gb Ethernet interfacing
+     * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 10GbE
      * [x]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
      * [ ]  Deploy Trained AI Models on Low Power Embedded Systems
      * [ ]  Transform & Implement Trained AI models onto Discrete Analog Hardware
+     * [ ]  Bare metal OS and drivers setup for custom hardware
+     * [ ]  Software drivers for PCIe driven accelerators on x86-64 systems.
+     
 
 
 
 ### Upcoming Projects:
 . You can Expect these projects to get live on GitHub Soon
 - Raspberry Pi **CM4 Carrier Board** with extensive set of Peripherals
-- Feather FPGA Development board
+- PCIe M.2 FPGA Development board
 - A C++ based GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
 
 
