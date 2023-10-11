@@ -1,6 +1,6 @@
 
 ### Who I am?
-I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment. With experienced in embedded firmware development, I am interested in RISCV & Computer Architecture, FPGAs Quantum Computing and Space technologies.
+I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment. With experienced in embedded firmware development, I am interested in RISCV & Computer Architecture, FPGAs, Quantum Computing and Space technologies.
 
 
 ### Specialization
