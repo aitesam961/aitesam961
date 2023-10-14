@@ -46,7 +46,7 @@ So I am Learning
      * [ ] Bare Minimum Compiler Design
 * [ ]  Secondry Objectives
      * [ ]  Embedded NFC Antenna Design for PCB
-     * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 10GbE
+     * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 10GbE based Hardware design
      * [x]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
      * [ ]  Deploy Trained AI Models on Low Power Embedded Systems
      * [ ]  Transform & Implement Trained AI models onto Discrete Analog Hardware
