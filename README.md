@@ -1,14 +1,6 @@
 
 ### Who I am?
-I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment. With experienced in embedded firmware development, I am interested in RISCV & Computer Architecture, FPGAs, Quantum Computing and Space technologies.
-
-
-### Specialization
-> - Embedded Systems
-> - Electronics & IoT
-> - Computer HW & SW
-> - RISCV SoC & FPGAs
-
+I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment. With experience in embedded firmware development, I am interested in RISCV & Computer Architecture, FPGAs, Quantum Computing and Space technologies.
 
 
 ## My Skills
@@ -29,10 +21,10 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 
 ### What I like?
 
-> My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanvced Computer architecture, RISCV based SoC design, RTL design for  and FPGAs & ASIC
+> My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanvced Computer architecture, RISCV based SoC design, RTL design for FPGAs & ASIC.
 
 ### What I'm currently working on?
-> **Full Time:** Implementation of RISCV Vector Extension for RV64IMAC Core.
+> **Full Time:** Implementation of RISCV Vector Extension for RV64 Core.
 > **Part Time:** Study and Research on Modern Computing paradigms for AI and ML.
 
 ### My Learning Goals for 2023:Q4
@@ -51,7 +43,7 @@ So I am Learning
      * [ ]  Deploy Trained AI Models on Low Power Embedded Systems
      * [ ]  Transform & Implement Trained AI models onto Discrete Analog Hardware
      * [ ]  Bare metal OS and drivers setup for custom hardware
-     * [ ]  Software drivers for PCIe driven accelerators on x86-64 systems.
+     * [ ]  Software drivers for PCIe driven accelerators on x86-64 platform.
      
 
 
@@ -60,7 +52,7 @@ So I am Learning
 . You can Expect these projects to get live on GitHub Soon
 - Raspberry Pi **CM4 Carrier Board** with extensive set of Peripherals
 - PCIe M.2 FPGA Development board
-- A C++ based GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
+- A C++ GUI Application for [#OpenADSP](https://github.com/maitesam/OpenADSP)
 
 
 And much more to come. Just someone catch the **TIME** for me.
