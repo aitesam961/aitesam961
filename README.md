@@ -37,7 +37,7 @@ So I am Learning
      * [x] RISC-V SoC on FPGA
      * [ ] Bare Minimum Compiler Design
 * [ ]  Secondry Objectives
-     * [ ]  Embedded NFC Antenna Design for PCB
+     * [x]  Embedded NFC Antenna Design for PCB
      * [ ]  Ultra High Speed interfaces like HDMI, PCIe, DDR4, 10GbE based Hardware design
      * [x]  SIMPLE Webpage Design in [HTML](https://en.wikipedia.org/wiki/HTML) To Host IoT Devices using IP
      * [ ]  Deploy Trained AI Models on Low Power Embedded Systems
