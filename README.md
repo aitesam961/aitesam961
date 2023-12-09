@@ -73,7 +73,7 @@ Checkout: Routing Timelapse | EasyEDA Pro | Routing Audio Processing Device
 
 [![Video](https://img.youtube.com/vi/ky78GPNEK78/hqdefault.jpg)](https://www.youtube.com/watch?v=ky78GPNEK78)
 
-Checkout: Routing Timelapse | EasyEDA Pro | Routing Audio Processing Device
+Checkout: Routing Timelapse | KiCAD | Routing a 4-L LED Matrix badge board
 
 [![Video](https://img.youtube.com/vi/JsCCEnHJgYc/hqdefault.jpg)](https://www.youtube.com/watch?v=JsCCEnHJgYc)
 
