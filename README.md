@@ -69,9 +69,14 @@ You can Check me out at:
 
 ### I sometime create videos
 
-Checkout: 
+Checkout: Routing Timelapse | EasyEDA Pro | Routing Audio Processing Device
 
-[![Video](https://img.youtube.com/vi/ky78GPNEK78/maxresdefault.jpg)](https://www.youtube.com/watch?v=ky78GPNEK78)
+[![Video](https://img.youtube.com/vi/ky78GPNEK78/hqdefault.jpg)](https://www.youtube.com/watch?v=ky78GPNEK78)
+
+Checkout: Routing Timelapse | EasyEDA Pro | Routing Audio Processing Device
+
+[![Video](https://img.youtube.com/vi/JsCCEnHJgYc/hqdefault.jpg)](https://www.youtube.com/watch?v=JsCCEnHJgYc)
+
 
 
 #### Want to Contact Me?:
