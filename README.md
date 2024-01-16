@@ -27,7 +27,7 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 > **Full Time:** Implementation of RISCV Vector Extension for RV64 Core.
 > **Part Time:** Study and Research on Modern Computing paradigms for AI and ML.
 
-### My Learning Goals for 2023:Q4
+### My Learning Goals for 2024:Q1
 "Learning Never Stops" 
 So I am Learning 
 * [ ] Primary Focus
