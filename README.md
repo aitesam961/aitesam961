@@ -77,7 +77,6 @@ Checkout: Routing Timelapse | EasyEDA Pro | Routing Audio Processing Device
 
 [![Video](https://img.youtube.com/vi/ky78GPNEK78/hqdefault.jpg)](https://www.youtube.com/watch?v=ky78GPNEK78)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aitesam961)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Want to Contact Me?:
 aitesam961@gmail.com
