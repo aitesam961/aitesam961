@@ -2,7 +2,6 @@
 ### Who I am?
 I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I develop embedded solutions from hobbyist level to commercial products and sometimes, industrial equipment. With experience in embedded hardware design and firmware development, I am also interested in RISCV, Computer Architecture, FPGAs, Quantum Computing and Space technologies.
 
-
 ## My Skills
 * [x] Embedded Hardware Design
     * [x] SMPSs & LDO PSUs
