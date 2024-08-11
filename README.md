@@ -4,7 +4,7 @@ I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest an
 
 ### What I like?
 
-> My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanced Computer architecture, RISCV based SoC design, RTL design for FPGAs & ASIC.
+My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanced Computer architecture, RISCV based SoC design, RTL design for FPGAs & ASIC.
 
 ### Upcoming Projects:
 . You can Expect these projects to get live on GitHub Soon
