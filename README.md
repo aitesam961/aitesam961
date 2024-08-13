@@ -11,15 +11,6 @@ My area of interest lies in Embedded hardware Design, Firmware development for i
 - Raspberry Pi **CM4 Carrier Board** with extensive set of Peripherals
 - PCIe M.2 FPGA Development board
 
-
-### Portfolio
-
-Some of my #opensource projects can be found under the respositories.
-
-You can find me out at:
-* [Twitter](https://twitter.com/TheCactus961)
-* [YouTube](https://youtube.com/@heliumlabs)
-
 ### What is heliumlabs?
 
 I founded Helium Labs as an engineering consultancy and solutions provider firm. We are a small team and we work on some really amazing projects. Checkout [HELIUM LABS](https://github.com/theheliumlabs)
