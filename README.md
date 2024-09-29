@@ -1,6 +1,6 @@
 
 ### Who I am?
-I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I am consistenly learning new technologiesm design techniques and exploring innovative ideas.
+I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I am consistenly learning new technologies, design techniques and exploring innovative ideas.
 
 ### What I like?
 
