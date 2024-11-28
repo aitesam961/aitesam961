@@ -2,14 +2,12 @@
 ### Who I am?
 I am **Aitesam**. I chose Electrical Engineering as a  Profession of interest and I am consistenly learning new technologies, design techniques and exploring innovative ideas.
 
-### What I like?
-
-My area of interest lies in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanced Computer architecture, RISCV based SoC design, RTL design for FPGAs & ASIC.
+I am interested in Embedded hardware Design, Firmware development for innovative Technological solutions. Moreover, I enjoy working on Advanced Computer Architecture, Digital Design, RISCV based SoCs and RTL design for FPGAs & ASIC.
 
 ### Upcoming Projects:
-. You can Expect these projects to get live on GitHub Soon
+. You can Expect these projects to get live on GitHub Soon        
 - Raspberry Pi **CM4 Carrier Board** with extensive set of Peripherals
-- PCIe M.2 FPGA Development board
+- PCIe M.2 FPGA Development board with BSP   
 
 ### What is heliumlabs?
 
@@ -26,7 +24,7 @@ Checkout: Routing Timelapse | EasyEDA Pro | Routing Audio Processing Device
 [![Video](https://img.youtube.com/vi/ky78GPNEK78/hqdefault.jpg)](https://www.youtube.com/watch?v=ky78GPNEK78)
 
 
-#### Want to Contact Me?:
+#### Want to Reach out?:
 aitesam961@gmail.com
 
 
