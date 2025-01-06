@@ -24,9 +24,6 @@ Checkout: Routing Timelapse | EasyEDA Pro | Routing Audio Processing Device
 [![Video](https://img.youtube.com/vi/ky78GPNEK78/hqdefault.jpg)](https://www.youtube.com/watch?v=ky78GPNEK78)
 
 
-#### Want to Reach out?:
-aitesam961@gmail.com
-
 
 
 
